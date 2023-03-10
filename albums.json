@@ -1,59 +1,58 @@
 {
-data: [
-fPRNIKi: {
-    title: '春日',
-    cover: 'tFaAlZJ'
+  "fPRNIKi": {
+    "title": "春日",
+    "cover": "tFaAlZJ"
   },
-  NyH82Jb: {
-    title: '夏日',
-    cover: 'Dck1I4N'
+  "NyH82Jb": {
+    "title": "夏日",
+    "cover": "Dck1I4N"
   },
-  MfMqPn1: {
-    title: '秋日',
-    cover: null
+  "MfMqPn1": {
+    "title": "秋日",
+    "cover": null
   },
-  hU1Eizy: {
-    title: '冬日',
-    cover: null
+  "hU1Eizy": {
+    "title": "冬日",
+    "cover": null
   },
-  EfOlbXz: {
-    title: '落花',
-    cover: null
+  "EfOlbXz": {
+    "title": "落花",
+    "cover": null
   },
-  xuJyzMh: {
-    title: '天空',
-    cover: null
+  "xuJyzMh": {
+    "title": "天空",
+    "cover": null
   },
-  MNaopiH: {
-    title: '海天一線',
-    cover: 'v17szvE'
+  "MNaopiH": {
+    "title": "海天一線",
+    "cover": "v17szvE"
   },
-  Bvz2kWV: {
-    title: '流水',
-    cover: 'L55EXkR'
+  "Bvz2kWV": {
+    "title": "流水",
+    "cover": "L55EXkR"
   },
-  wZtrdwk: {
-    title: '街景',
-    cover: '6BnfzWK'
+  "wZtrdwk": {
+    "title": "街景",
+    "cover": "6BnfzWK"
   },
-  leMe5s1: {
-    title: '街角微光',
-    cover: 'G0YAWig'
+  "leMe5s1": {
+    "title": "街角微光",
+    "cover": "G0YAWig"
   },
-  iFb1GHJ: {
-    title: '聖誕夜',
-    cover: 'OEmjtfQ'
+  "iFb1GHJ": {
+    "title": "聖誕夜",
+    "cover": "OEmjtfQ"
   },
-  cSSpVTQ: {
-    title: '燈景',
-    cover: 'bwwWa1q'
+  "cSSpVTQ": {
+    "title": "燈景",
+    "cover": "bwwWa1q"
   },
-  A3ZPSKH: {
-    title: '午茶',
-    cover: null
+  "A3ZPSKH": {
+    "title": "午茶",
+    "cover": null
   },
-  zPfvMqJ: {
-    title: '小物',
-    cover: '4j348gD'
-  }]
+  "zPfvMqJ": {
+    "title": "小物",
+    "cover": "4j348gD"
+  }
 }
