@@ -1,7 +1,14 @@
 # api
 https://eudora-hsj.github.io/api/
 
----
+
+
+---Project
+
+- [albums](https://art.eudora.cc/#/)
+  -  https://eudora-hsj.github.io/api/albums.json
+
+---練習/測試用
 
 - 台北市商圈: 
   - https://eudora-hsj.github.io/api/attractions.json  ( origin: https://tour.klcg.gov.tw/data/attractions.json )
